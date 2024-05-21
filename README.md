@@ -14,6 +14,11 @@ Matplotlib 3.8.0
 Joblib 1.2.0
 Graphviz 2.50.0
 
+### Datasets
+
+Training dataset: AllFinalv4.csv
+Test dataset: 2024Finalv3.csv
+
 ### Important
 
 Please note the file directory structure in the second code cell of each notebook.
