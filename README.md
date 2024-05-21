@@ -7,16 +7,24 @@ An analysis of the predictive capabilities of Decision Trees and Random Forests 
 ### Dependencies
 
 Python 3.12.2
+
 Pandas 2.2.1
+
 Scikit-learn 1.3.0
+
 Numpy 1.26.4
+
 Matplotlib 3.8.0
+
 Joblib 1.2.0
+
 Graphviz 2.50.0
+
 
 ### Datasets
 
 Training dataset: AllFinalv4.csv
+
 Test dataset: 2024Finalv3.csv
 
 ### Important
